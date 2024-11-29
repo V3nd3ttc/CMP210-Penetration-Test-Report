@@ -1,2 +1,2 @@
 # CMP210-Penetration-Test-Report
-CMP210-Ethical Hacking 1 Assignment
+CMP210-Penetration Testing Assignment
